@@ -1,4 +1,4 @@
-package com.movip.android.android
+package com.movipp.app.movipp
 
 import io.flutter.embedding.android.FlutterActivity
 
